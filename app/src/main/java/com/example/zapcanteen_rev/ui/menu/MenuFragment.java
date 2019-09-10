@@ -54,14 +54,14 @@ public class MenuFragment extends Fragment {
 
         lv = (ListView) view.findViewById(R.id.lv);
 
-        Pil = new String[]{"Seblak", "Mie Ayam", "Batagor", "Es buah", "Gorengan", "Baso Tahu"};
+        Pil = new String[]{"Seblak", "Mie Ayam", "Batagor", "Es buah", "Nasi Kuning","Lontong Sayur"};
         Ltn = new String[]{"Rp 5000", "Rp 5000", "Rp 5000", "Rp 5000", "Rp 5000", "Rp 5000"};
         Gbr = new String[]{Integer.toString(R.drawable.seblak),
                 Integer.toString(R.drawable.mie),
-                Integer.toString(R.drawable.mie),
-                Integer.toString(R.drawable.mie),
-                Integer.toString(R.drawable.mie),
-                Integer.toString(R.drawable.batagor)};
+                Integer.toString(R.drawable.batagor),
+                Integer.toString(R.drawable.jus),
+                Integer.toString(R.drawable.naskun),
+                Integer.toString(R.drawable.lontong)};
 
         mylist = new ArrayList<HashMap<String, String>>();
 
