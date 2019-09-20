@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776843120583",
+    "firebase_url": "https://zapcanteen-85553.firebaseio.com",
+    "project_id": "zapcanteen-85553",
+    "storage_bucket": "zapcanteen-85553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776843120583:android:62c3669577f039919193e2",
+        "android_client_info": {
+          "package_name": "com.example.zapcanteen_rev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776843120583-dvgma4s907f0bgrlvk3oubs1c44nrusd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zapcanteen_rev",
+            "certificate_hash": "a5de2ed9c12b029edab2683c9375d27fe0edcdb2"
+          }
+        },
+        {
+          "client_id": "776843120583-16e09grurorodif3ife8db7me5e7isp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHeS7BevCZTYAtiWofPCU_O9ntyrbZS20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776843120583-16e09grurorodif3ife8db7me5e7isp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
