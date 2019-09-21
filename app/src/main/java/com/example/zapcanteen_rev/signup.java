@@ -50,12 +50,12 @@ public class signup extends AppCompatActivity {
                     return;
                 }
                 if (nis.isEmpty()){
-                    nis.setError("username kosong");
+                    nis.setError("nis kosong");
                     nis.requestFocus();
                     return;
                 }
                 if (kelas.isEmpty()){
-                    kelas.setError("username kosong");
+                    kelas.setError("kelas kosong");
                     kelas.requestFocus();
                     return;
                 }
